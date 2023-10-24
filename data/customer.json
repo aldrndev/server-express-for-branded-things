@@ -1,0 +1,18 @@
+[
+  {
+    "username": "anisa",
+    "email": "anisa@gmail.com",
+    "password": "123456",
+    "role": "customer",
+    "phoneNumber": "021123456",
+    "address": "jakarta"
+  },
+  {
+    "username": "raya",
+    "email": "raya@gmail.com",
+    "password": "123456",
+    "role": "customer",
+    "phoneNumber": "021987563",
+    "address": "tangerang"
+  }
+]

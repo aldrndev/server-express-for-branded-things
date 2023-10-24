@@ -1,0 +1,218 @@
+[
+  {
+    "name": "LONGCHAMP BAG",
+    "description": "Le Pliage Original Shoulder Bags S.",
+    "price": 2279200,
+    "stock": 15,
+    "imgUrl": "https://static-id.zacdn.com/p/longchamp-3835-6996193-1.jpg",
+    "authorId": 1,
+    "categoryId": 4
+  },
+  {
+    "name": "LONGCHAMP CARD HOLDER",
+    "description": "Le Pliage Green Card Holder.",
+    "price": 1661550,
+    "stock": 10,
+    "imgUrl": "https://static-id.zacdn.com/p/longchamp-2131-9948463-1.jpg",
+    "authorId": 2,
+    "categoryId": 5
+  },
+  {
+    "name": "Platini Kemeja Motif Pria",
+    "description": "Petunjuk Perawatan: Cuci dengan membalikan luar-dalam pakaian.",
+    "price": 149000,
+    "stock": 40,
+    "imgUrl": "https://static-id.zacdn.com/p/platini-6164-2055124-1.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Forum Low Shoes",
+    "description": "Every step is a statement with the adidas Forum shoes.",
+    "price": 1790000,
+    "stock": 50,
+    "imgUrl": "https://static-id.zacdn.com/p/adidas-0475-3748414-2.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Jobb Walder Celana Panjang",
+    "description": "Tampil trendy dengan Koleksi Celana Panjang Pria JOBB Seasonal Formal Pants. ",
+    "price": 149700,
+    "stock": 120,
+    "imgUrl": "https://static-id.zacdn.com/p/jobb-6410-3863124-2.jpg",
+    "authorId": 2,
+    "categoryId": 1
+  },
+  {
+    "name": "Hammer Man T-shirt Grafis",
+    "description": "Hammer menjadi salah satu produk Lokal dengan kualitas terbaik.",
+    "price": 100000,
+    "stock": 20,
+    "imgUrl": "https://static-id.zacdn.com/p/hammer-1168-8863124-4.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Air Force 1 '07 Shoes",
+    "description": "Nike Air Force 1 '07 Men's Shoes The radiance lives on with the b-ball original.",
+    "price": 1729000,
+    "stock": 150,
+    "imgUrl": "https://static-id.zacdn.com/p/nike-6601-7857383-2.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Pegasus 40 Shoes",
+    "description": "#pegasus A springy ride for any run, the Peg’s familiar.",
+    "price": 2099000,
+    "stock": 150,
+    "imgUrl": "https://static-id.zacdn.com/p/nike-9121-2955004-2.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Air Max Sol Sandals",
+    "description": "Visible Nike Air unit in the heel delivers lightweight cushioning with iconic sneaker style.",
+    "price": 1299000,
+    "stock": 150,
+    "imgUrl": "https://static-id.zacdn.com/p/nike-2366-5516004-2.jpg",
+    "authorId": 2,
+    "categoryId": 10
+  },
+  {
+    "name": "Men's Tanjun Shoes",
+    "description": "Nike Tanjun Men's Shoes A BEST-SELLING FAVORITE MADE BETTER.",
+    "price": 799000,
+    "stock": 30,
+    "imgUrl": "https://static-id.zacdn.com/p/nike-5122-5729913-2.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Superstar Sneakers",
+    "description": "Genuine Leather is a natural material from animals and therefore differs from hide to hide.",
+    "price": 1700000,
+    "stock": 200,
+    "imgUrl": "https://static-id.zacdn.com/p/adidas-3641-1513042-2.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Stan Smith Shoes",
+    "description": "Sneakers untuk athleisure style dengan siluet versatile.",
+    "price": 1530000,
+    "stock": 100,
+    "imgUrl": "https://static-id.zacdn.com/p/adidas-2926-0197783-2.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Pegasus 40 Premium Shoes",
+    "description": "Desain optimized heel area dan traction untuk optimasi landing space dan membuat durabilitas maksimal.",
+    "price": 1979100,
+    "stock": 20,
+    "imgUrl": "https://static-id.zacdn.com/p/nike-2913-4206004-1.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Pegasus 40 SE Road Running Shoes",
+    "description": "Nike Pegasus 40 SE Men's Road Running Shoes A springy ride for any run.",
+    "price": 1994000,
+    "stock": 90,
+    "imgUrl": "https://static-id.zacdn.com/p/nike-8952-1706004-2.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "In-Season TR 13",
+    "description": "Training/Nike In-Season TR 13 Men's Training Shoes When time is of the essence.",
+    "price": 976000,
+    "stock": 190,
+    "imgUrl": "https://static-id.zacdn.com/p/nike-8880-0406004-2.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Stan Smith",
+    "description": "Sneakers dengan desain yang versatile untuk sporty modern look.",
+    "price": 1700000,
+    "stock": 90,
+    "imgUrl": "https://static-id.zacdn.com/p/adidas-4274-0633062-2.jpg",
+    "authorId": 2,
+    "categoryId": 3
+  },
+  {
+    "name": "Cord Stripe Collar Polo",
+    "description": "Polo shirt bergaya casual dengan desain timeless yang maskulin.",
+    "price": 249000,
+    "stock": 50,
+    "imgUrl": "https://static-id.zacdn.com/p/hush-puppies-2728-7242483-1.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Blume Voile Square - Moonlight",
+    "description": "In collaboration with Sarah Sofyan, the special Blume Series is inspired by the beauty of blooming flowers.",
+    "price": 425000,
+    "stock": 80,
+    "imgUrl": "https://static-id.zacdn.com/p/buttonscarves-2273-8683124-1.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Staccato TTY06-005 Women's Flats",
+    "description": "Staccato TTY06-005 Women's Flats- Black.",
+    "price": 599000,
+    "stock": 65,
+    "imgUrl": "https://static-id.zacdn.com/p/staccato-7935-7209024-2.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Regular Blouse",
+    "description": "Material poliester tidak transparan, ringan dan tidak stretch.",
+    "price": 79000,
+    "stock": 15,
+    "imgUrl": "https://static-id.zacdn.com/p/cardinal-2898-8861322-2.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Petite Square Neck Jumpsuit",
+    "description": "Solid tone fitted wide leg jumpsuit.",
+    "price": 818000,
+    "stock": 125,
+    "imgUrl": "https://static-id.zacdn.com/p/trendyol-7020-1132573-2.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "Pierre Cardin Lingerie",
+    "description": "Pierre Cardin Next To Skin Seam Free Full Coverage V-Neck Bralette 209-2928B.",
+    "price": 225000,
+    "stock": 25,
+    "imgUrl": "https://static-id.zacdn.com/p/pierre-cardin-lingerie-1159-3177314-2.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  },
+  {
+    "name": "High Rise Straight Jeans",
+    "description": "Washed high rise straight jeans.",
+    "price": 579500,
+    "stock": 225,
+    "imgUrl": "https://static-id.zacdn.com/p/trendyol-7032-4660943-1.jpg",
+    "authorId": 2,
+    "categoryId": 1
+  },
+  {
+    "name": "Printed Shirt",
+    "description": "Puff long sleeves with button cuffs.",
+    "price": 509000,
+    "stock": 25,
+    "imgUrl": "https://static-id.zacdn.com/p/alacati-5382-0805024-1.jpg",
+    "authorId": 2,
+    "categoryId": 2
+  }
+]
